@@ -1,0 +1,898 @@
+{
+    "stories": [
+        {
+            "adnResults": {
+                "Companies": {
+                    "Company": [
+                        null,
+                        {
+                            "@categorization": "automatic",
+                            "$": "Senato"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Partito Democratico"
+                        }
+                    ]
+                },
+                "People": {
+                    "Person": [
+                        null,
+                        {
+                            "@categorization": "automatic",
+                            "$": "Luca Ciriani"
+                        }
+                    ]
+                },
+                "Places": {
+                    "Place": null
+                },
+                "Keywords": {
+                    "Keyword": [
+                        null,
+                        {
+                            "@categorization": "automatic",
+                            "$": "fonti Pd"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "emendamento canguro"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Partito Democratico"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "conferenza dei capigruppo"
+                        }
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": [
+                        "le proteste dell’opposizione",
+                        "L‘opposizione",
+                        "una cospicua parte del testo",
+                        "il patto di lealtà",
+                        "Le dichiarazioni di voto",
+                        "il governo",
+                        "una discussione",
+                        "gli emendamenti",
+                        "l’approvazione",
+                        "nessun patto"
+                    ]
+                },
+                "persons": {
+                    "person": [
+                        "Ciriani",
+                        "Iv Paita",
+                        "Luca Ciriani",
+                        "Francesco Boccia",
+                        "Boccia",
+                        "Paita"
+                    ]
+                },
+                "organisations": {
+                    "organisation": [
+                        "Pd",
+                        "Senato",
+                        "Fdi"
+                    ]
+                },
+                "geoPlaces": {
+                    "geoPlace": "Australia"
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Dl Cutro, ira Pd su emendamento ‘canguro’: maggioranza lo ritira",
+            "summary": "I dem in Senato contro Ciriani: “Rotto patto di lealtà presentando un emendamento che di fatto ‘riscrive’ una cospicua parte del testo, una porcata”. Il ministro: ”Nessun trucco né inganno”. L’Iv Paita: ”La chiudiamo entro domani”",
+            "paragraphs": "Irritazione del Pd al Senato, dove è in corso l‘esame del decreto Cutro. I dem, mentre è in corso la conferenza dei capigruppo, puntano il dito contro il ministro dei Rapporti con il Parlamento Luca Ciriani: “Il ministro - attaccano fonti Pd - ha rotto un patto di lealtà presentando un emendamento canguro che di fatto ’riscrive’ una cospicua parte del testo, dopo aver promesso che non lo avrebbe fatto. Stiamo protestando contro una ’porcata’”. Dopo le proteste dell’opposizione, la maggioranza ha quindi ritirato l’emendamento ’canguro’ al dl. ”Il canguro è tornato in Australia”, commenta ironicamente il presidente dei senatori del Pd Francesco Boccia, al termine della conferenza dei capigruppo, immediatamente convocata stamane dopo la sospensione della seduta al suo inizio.“Questa mattina - ha continuato Boccia - eravamo molto irritati perché ritenevamo violato il patto di lealtà che deve essere sempre rispettato quando si discute di regole del gioco: do atto al presidente La Russa di aver fatto tornare tutti agli impegni di ieri. L‘opposizione ha chiesto ieri di discutere il merito del decreto Cutro, che noi contestiamo, e soprattutto di entrare nel merito sui punti salienti: mi riferisco all’articolo 5 e 7, cioè l’accoglienza e la protezione speciale. Tutto questo non sarebbe stato possibile a causa di questo vergognoso canguro costruito dalle forze di maggioranza tra ieri sera e questa mattina”. ”E’ evidente che ci sarebbe stata da parte nostra una dura reazione in Aula, prevenuta da questa conferenza dei capigruppo che si è chiusa con un’intesa” grazie alla quale ”andremo in Aula e democraticamente ci confronteremo su oltre 400 emendamenti”, prosegue l’esponente dem.“Il governo non ha tradito nessun patto. Noi abbiamo depositato quei pochi emendamenti che avevamo indicato in capigruppo ieri. Sono stati comunicati in tempo alle opposizioni, per consentire il lavoro dei subemendamenti. Così era e così rimane, non c‘è nessun trucco e nessun inganno”, risponde all’Adnkronos il ministro per i Rapporti con il Parlamento Luca Ciriani, dopo le proteste delle opposizioni al Senato. ”I gruppi (di maggioranza, ndr) hanno presentato degli emendamenti per tutelarsi rispetto a un’attività ostruzionistica che avrebbe potuto mettere in discussione l’approvazione ma il governo non ha fatto nulla, ha presentato pochi emendamenti, è disposto a ragionare nel merito e a consentire alle opposizioni di fare il loro lavoro. E’ quello che abbiamo ribadito anche adesso in capigruppo”, chiosa l’esponente di Fdi.“La chiudiamo entro domani. Le dichiarazioni di voto ci saranno domani. Ora si riprende con gli emendamenti, loro (la maggioranza, ndr) ritirano l‘emendamento canguro perché questo avrebbe azzerato tutto e noi, pur mantenendo quasi tutti gli emendamenti, garantiamo una discussione ordinata in modo tale da poter finire domani”, ha poi detto al termine della conferenza dei capigruppo, la presidente dei senatori di Azione-Iv Raffaella Paita. ”L’emendamento canguro - ha sottolineato Paita - avrebbe reso questa discussione molto più complicata perché violava il nostro diritto ad avere spazio nella discussione”."
+        },
+        {
+            "adnResults": {
+                "Companies": {
+                    "Company": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Partito Democratico"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Movimento 5 Stelle"
+                        }
+                    ]
+                },
+                "People": null,
+                "Places": {
+                    "Place": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Italia"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Ungheria"
+                        }
+                    ]
+                },
+                "Keywords": {
+                    "Keyword": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "governo Meloni"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "governo"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "decreto Cutro"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "governo cerca"
+                        }
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": [
+                        "il governo",
+                        "la povertà",
+                        "Elly Schlein",
+                        "l‘illegalità",
+                        "gli elementi",
+                        "amministrazione di Roma",
+                        "quegli investimenti",
+                        "contrapposizione",
+                        "questa segreteria",
+                        "questo grido di allarme",
+                        "l‘Ungheria"
+                    ]
+                },
+                "persons": {
+                    "person": [
+                        "Elly Schlein",
+                        "Salvini",
+                        "Bossi",
+                        "Schlein",
+                        "segretaria"
+                    ]
+                },
+                "organisations": {
+                    "organisation": [
+                        "Pnnr",
+                        "M5S"
+                    ]
+                },
+                "geoPlaces": {
+                    "geoPlace": "Roma"
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Migranti, Schlein: “Meloni bugiarda su protezione speciale”",
+            "summary": "\"Preoccupati da questi primi 7 mesi\"",
+            "paragraphs": "\"Ci batteremo contro l'abolizione della protezione speciale, spero che la Meloni abbia capito di aver detto una bugia perché sono i 18 i Paesi che hanno questa forma di protezione\". E' quanto ha detto Elly Schlein. \"Con il decreto Cutro, che faccio fatica a chiamare, così, per rispetto a quella strage, il governo cerca di portare l'Ungheria in Italia\" smantellando il sistema di accoglienza diffusa. \"Quello che stiamo vedendo è pure peggio di quanto avessero fatto i decreti Salvini. Era difficilmente immaginabile, ma ce la stanno facendo\".\"Con il decreto Cutro, che faccio fatica a chiamare così per rispetto a quella strage, il governo cerca di portare l'Ungheria in Italia\" smantellando il sistema di accoglienza diffusa. \"Quello che stiamo vedendo è pure peggio di quanto avessero fatto i decreti Salvini. Era difficilmente immaginabile ma ce la stanno facendo\".\"Surreale mettere in contrapposizione il lavoro delle donne con i migranti. Dai tempi della Bossi-Fini la strategia della destra è sempre stata scrivere norme criminogene che aumentano l'illegalità per poi cavalcare quelle irregolarità. Noi dobbiamo fare ogni sforzo perché ci sia piena inclusione per chi arriva e che abbia via d'accesso legali e sicure. E dall'altra parte fare ogni sforzo per l'aumento dell'occupazione femminile. Ma la strada non è lasciare per strada i richiedenti asilo ma, come abbiamo proposto, accompagnare il Pnrr con un piano\" per sostenere l'occupazione delle donne.\"Ci chiediamo quale sia la visione di Paese di questa destra perché gli elementi raccolti in questi primi 7 mesi sono preoccupanti\".GOVERNO - \"Provare a spaccare la maggioranza? La risposta che mi viene più naturale è che la maggioranza è abbastanza brava a spaccarsi da sola...\" replica Schlein. \"Quando ci sono tensioni, come sul dl migranti, su scatena una gara al ribasso tra di loro. Vediamo posizioni sempre più estreme e sempre più ideologiche. Non è interesse del Paese, oltre che essere disumano, calpestare i diritti della persone\". \"Siamo molto preoccupati per il Pnnr, non ci possiamo permettere di perdere quegli investimenti. Continueremo a a incalzare il governo\". \"Siamo davanti al governo campione mondiale di scaricabarile. Non serve, non serve puntare il dito sui governi precedenti ne’ fare dell’Europa il capro espiatorio dei nostri mali. Continueremo a insistere in tutte le sedi opportune\", ha aggiunto la segretaria Dem.PNRR - \"Siamo molto preoccupati per il Pnnr, non ci possiamo permettere di perdere quegli investimenti. Continueremo a a incalzare il governo\" ha detto Schlein.TESSERE - \"Sono quasi 20mila i nuovo iscritti, abbiamo deciso di destinare ai circoli un milione di euro del tesseramento per continuare la presenza capillare sul territorio\".NOMINE - \"Le nomine? Mi sembra che si sia risolta in un'operazione di potere all'interno della maggioranza senza una visione strategica di quali sono le missioni di queste grandi società partecipate a partire dal Pnrr. Mi è parsa una discussione molto di potere\".REDDITO DI CITTADINANZA - \"Non sappiamo ancora nulla di ufficiale di quello che il governo vuol fare con il decreto lavoro, ma quello che si profila è una sorta di spezzatino del Rdc. Noi ci siamo opposti a questa guerra del governo contro i poveri. Il Reddito è migliorabile ma ha aiutato a non scivolare verso la povertà. Ci vuole cautela e attenzione. Dal 2024 il governo Meloni taglia il 20% delle risorse contro al povertà: non è la direzione giusta\".SANITA' - \"La difesa della sanità pubblica universalistica. Il governo ha fatto tagli nella sanità e questi tagli si traducono in un restringimento dei servizi alla persone. Noi ci opponiamo con forza a tutto questo e chiediamo al governo di non lasciare sole le regioni.Serve un intervento del governo che non c'è stato in manovra nè nel Def. Assistiamo a una pericolosa regressione\".Nella difesa della sanità pubblica \"non siamo soli. ci sembra di vedere le altre opposizione molto attive e anche i sindacati. Spero che il governo ascolti questo grido di allarme\".TERMOVALORIZZATORE - \"Il termovalorizzatore è una scelta che era stata presa dall'amministrazione di Roma che ha già approvato il piano rifiuti e questo è successo ben prima del congresso e di questa segreteria e non era oggetto del nostro programma alle primarie\". \"Non abbiamo assunto una posizione contro una procedura che è già in corso, ma visto che esistono sensibilità diverse nel Pd, io mi impegno a favore del confronto tra di noi e con gli amministratori. Ereditiamo scelte già fatte ma non è sul terreno delle scelte già fatte che noi vogliamo costruire, a partire dalla piattaforma congressuale\" le nostre politiche ambientali. \"Non ho ancora visto i testi\" degli odg di M5S e Avs contro il termovalorizzatore di Roma \"ma immagino che voteremo contro ma questo non vuol dire che non continueremo il dialogo sui temi con le altre opposizioni\".M5S - \"Con il M5S c'è pieno spirito di collaborazione e la volontà di trovarci su alcune questioni fondamentali. Se si sta sui temi concreti si riesce a creare un filo che unisce piuttosto che le differenze\". \"Abbiamo cercato di valorizzare tutto questo. Continueremo a coltivare lo spirito unitario, poi ci sono temi divisivi, ma è normale. Poi, io sono arrivata da un mese, non posso rispondere di ciò che è stato fatto\".MATERNITA' SURROGATA - \"C'è una piena disponibilità al confronto con tutti i femminismi e con tutte le associazioni che vogliono confrontarsi su questo tema delicato e denso\" ha detto rispondendo a una domanda sulla lettera aperta inviata alla segretaria Pd da 100 femministe sulla gestazione per altri."
+        },
+        {
+            "adnResults": {
+                "Companies": {
+                    "Company": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Camera dei deputati"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Corte d'Appello"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Ministero della Giustizia"
+                        }
+                    ]
+                },
+                "People": {
+                    "Person": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Giuseppe Santalucia"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Carlo Nordio"
+                        }
+                    ]
+                },
+                "Places": {
+                    "Place": {
+                        "@categorization": "automatic",
+                        "$": "Milano"
+                    }
+                },
+                "Keywords": {
+                    "Keyword": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "provvedimento disciplinare"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "giudice"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "azione disciplinare"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Ministro di Grazia e Giustizia"
+                        }
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": [
+                        "Santalucia",
+                        "La Giunta dell‘Anm di Milano",
+                        "l’iniziativa",
+                        "il ministro",
+                        "ministro della Giustizia"
+                    ]
+                },
+                "persons": {
+                    "person": [
+                        "ministro",
+                        "Carlo Nordio",
+                        "ministro della Giustizia",
+                        "Monica Fagnoni",
+                        "Micaela Curami",
+                        "Stefano Caramellino",
+                        "Giuseppe Santalucia",
+                        "Santalucia"
+                    ]
+                },
+                "organisations": {
+                    "organisation": [
+                        "corte d‘Appello di Milano",
+                        "corte d’Appello",
+                        "Associazione nazionale magistrati",
+                        "Governo"
+                    ]
+                },
+                "geoPlaces": {
+                    "geoPlace": "Milano"
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Caso Artem Uss, avviata azione disciplinare su giudici Milano",
+            "summary": "L'atto del ministero della Giustizia. Domani informativa urgente del ministro alla Camera. Anm: \"Nordio non può sindacare valutazione giudici\"",
+            "paragraphs": "Informativa urgente del ministro Carlo Nordio, domani 20 aprile alle 14.00 alla Camera, sul caso Artem Uss. Il Guardasigilli ha infatti concluso tutti gli accertamenti necessari. I giudici della quinta sezione penale della corte d'Appello di Milano, i quali hanno firmato l'ordinanza con cui il 25 novembre scorso sono stati concessi i domiciliari con braccialetto elettronico all'imprenditore russo, hanno intanto ricevuto ieri - da quanto si apprende da fonti giudiziarie - l'atto di avvio dell'azione disciplinare a loro carico del ministro della Giustizia. Il documento con cui il Ministero ha avviato il procedimento disciplinare, che deve passare anche attraverso la presidenza della corte d'Appello, oltre che per la procura generale della Cassazione, è stato dunque notificato. I giudici nei confronti dei quali è stata promossa l'azione disciplinare, per una \"grave e inescusabile negligenza\" nella concessione dei domiciliari, sono Monica Fagnoni, Micaela Curami e Stefano Caramellino.\"Una regola fondamentale della materia disciplinare, immediata traduzione del principio della separazione dei poteri, è che il ministro e il Consiglio superiore della magistratura non possono sindacare 'l’attività di interpretazione di norme di diritto e quella valutazione del fatto e delle prove'. Sarebbe assai grave se questo limite, argine a tutela della autonomia e della indipendenza della giurisdizione, fosse stato superato. Mi auguro, ovviamente, che così non sia\". Così il presidente dell'Associazione nazionale magistrati, Giuseppe Santalucia, commenta la notizia dell'azione disciplinare. \"Non conoscendo i contenuti dell’iniziativa del ministro e basandomi soltanto su notizie di stampa, posso fare solo considerazioni di carattere generale\", premette Santalucia.La richiesta del ministro della Giustizia, per la sezione di Milano dell'Associazione nazionale magistrati è \"gravemente lesiva delle prerogative costituzionali che presidiano l'esercizio della giurisdizione: in modo sin qui inedito il potere politico, per ragioni attinenti la volontà di distogliere l’attenzione dalle criticità nella gestione da parte del Governo di una richiesta di estradizione, promuove un’azione disciplinare sindacando il merito di una decisione ampiamente motivata dai giudici\".La Giunta dell'Anm di Milano \"Nell’esprimere la più profonda solidarietà ai colleghi coinvolti in questa sconcertante vicenda, condanna fermamente l’iniziativa intrapresa dal ministro della Giustizia, che utilizza l’azione disciplinare per mascherare inadeguatezze delle amministrazioni coinvolte e per tentare di condizionare l’esercizio della giurisdizione\". Per discutere delle prossime iniziative da intraprendere è convocata per oggi, alle ore 17, un'assemblea straordinaria della sezione di Milano."
+        },
+        {
+            "adnResults": {
+                "Companies": {
+                    "Company": {
+                        "@categorization": "automatic",
+                        "$": "Unione Europea"
+                    }
+                },
+                "People": {
+                    "Person": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Jean Monnet"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Sergio Mattarella"
+                        }
+                    ]
+                },
+                "Places": {
+                    "Place": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Unione Sovietica"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Germania"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Polonia"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Ucraina"
+                        }
+                    ]
+                },
+                "Keywords": {
+                    "Keyword": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Unione Europea"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "paese"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Seconda Guerra Mondiale"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "europeo"
+                        }
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": [
+                        "Mattarella",
+                        "il capo dello Stato",
+                        "il presidente",
+                        "le contraddizioni",
+                        "il valore di questa unità",
+                        "realizzazioni concrete",
+                        "lungimiranza",
+                        "strada dell’integrazione"
+                    ]
+                },
+                "persons": {
+                    "person": [
+                        "presidente della Repubblica",
+                        "Sergio Mattarella",
+                        "Jean Monnet",
+                        "Mattarella",
+                        "Robert Schuman"
+                    ]
+                },
+                "organisations": {
+                    "organisation": [
+                        "Unione europea",
+                        "Germania nazista",
+                        "Unione sovietica stalinista",
+                        "Alleanza atlantica",
+                        "Ue"
+                    ]
+                },
+                "geoPlaces": {
+                    "geoPlace": [
+                        "Europa centro-orientale",
+                        "Cecoslovacchia",
+                        "Polonia"
+                    ]
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Ue, Mattarella: \"Non è somma di umori e interessi nazionali\"",
+            "summary": "Il presidente della Repubblica: \"Identità di vedute e comunità valori tra popoli\"",
+            "paragraphs": "L'Europa non è una somma di umori e interessi nazionali. A ricordarlo il presidente della Repubblica, Sergio Mattarella, nella sua prolusione all'Università Jagellonica di Cracovia. \"Jean Monnet, uno degli ispiratori del processo di unificazione europea, ci ricordava –come è noto- che l’Europa si sarebbe fatta nelle crisi e sarebbe stato il risultato delle soluzioni che avrebbe avuto la capacità di dare a quelle crisi. Dunque, ogni giorno è un banco di prova. Ma sarebbe del tutto inadeguato pensare a un’Europa frutto della affannosa rincorsa ad affrontare problemi dettati da altri, in un quadro internazionale deciso da altri. In altri termini, l’esigenza di fare dell’Europa una protagonista non trova adeguata risposta nella visione di un’Unione come somma temporanea e mutevole di umori e interessi nazionali, quindi, per definizione, perennemente instabile\", ha affermato Mattarella.\"Soccorre, a questo proposito, un’altra indicazione, questa volta di Robert Schuman, per la quale -ha ricordato il capo dello Stato- il percorso europeo 'si farà attraverso realizzazioni concrete, creando prima di tutto una solidarietà di fatto'. È il percorso, cioè, capace di dare vita a una identità di valori e una comunità di destino, che coinvolgano i popoli che la animano, con il pieno processo democratico che vede protagonisti i cittadini europei. Del resto, l’Europa nasce come grande progetto di pace, come visione di sviluppo capace di superare storiche contrapposizioni, come quelle tra Germania e Francia. Occorre una visione altrettanto saggia e robusta\".\"L’Unione europea è innanzitutto una comunità di valori che trova nel rifiuto della guerra come strumento di risoluzione delle controversie, nel rispetto dello Stato di diritto, nella democrazia e nel dialogo, nella coesione sociale, nelle prospettive di realizzazione dei giovani, i suoi principi cardine. Per tutto questo l’Europa è dei suoi cittadini. Essere parte di questo progetto -ha concluso Mattarella- significa condividerne, con spirito di solidarietà e responsabilità, i valori fondanti e impegnarsi quotidianamente a difendere i diritti sanciti dalla Carta dei valori dell’Unione europea\".\"Alle nostre spalle stanno secoli di tragedie in cui i popoli europei si sono contrapposti: la vostra terra ne è stata testimone e vittima nella ricerca dell'indipendenza, nella conquista della libertà, conserva ed esprime storia. E proprio la lezione della storia ha dato nel secondo dopoguerra, e non senza contrasti, un impulso irresistibile al progetto di integrazione europea così come oggi lo conosciamo, in un suo completamento, dopo la fine dell'Unione sovietica, con il ricongiungimento di Europa occidentale ed Europa centro-orientale\", ha sottolineato il presidente.\"Ma prima di giungere a questo storico approdo di integrazione d'Europa - ha ricordato - le prove generali della Seconda guerra mondiale avevano avuto luogo qui, nell'Europa centro-orientale, in Cecoslovacchia, in Polonia, con l'aggressione della Germania nazista e dell'Unione sovietica stalinista, frutto di ideologie di esasperazione nazionalistica e di potenza. Il massacro di Katyn, al'esordio del Secondo conflitto mondiale, ne è pagina eloquente\".\"A questo insensato tentativo di sovvertire le regole dell’ordine internazionale, l’Unione europea ha saputo reagire con fermezza e -con unità di intenti - continuerà a sostenere l’Ucraina. Oggi dobbiamo lavorare tutti per preservare il valore di questa unità. È un bene primario che va assolutamente salvaguardato. Fronteggiare con successo le gravi conseguenze del perdurare del conflitto, dall’esplosione dei fenomeni migratori alle crescenti diseguaglianze economiche e sociali, all’insicurezza energetica e alimentare, è la sfida alla quale gli europei sono chiamati\", ha quindi il capo dello Stato.\"Con lucidità - ha proseguito - va compreso che proporsi di salvaguardare la pace fra le nazioni, affrontare i rischi globali che interpellano tutto il mondo -missione da cui, colpevolmente, ci allontana, in questo momento, la furia bellicista russa- significa anzitutto respingere la tentazione della frammentazione della solidarietà fra Paesi liberi, cementata nella esperienza dell’Alleanza atlantica e dell’Unione europea. Sicurezza europea e sicurezza euroatlantica sono concetti indivisibili per potersi difendere insieme con determinazione e per garantire e sviluppare il modello democratico e sociale europeo\".\"Le somme destinate al rafforzamento della difesa dai singoli Paesi della Ue (che superano, insieme, di gran lunga quelle di eventuali competitori), se messe a fattor comune diverrebbero un volano ineguagliabile; a vantaggio anche dell’Alleanza atlantica. Ma è necessario superare con coraggio e lungimiranza le contraddizioni di voler puntare, da un lato, a una solida cornice di difesa europea senza saper superare, dall’altro, le timidezze di chi esita ad avanzare sulla strada dell’integrazione. L’una non può esistere senza l’altra. Ad assicurare mutua sicurezza non potrebbe mai essere sufficiente una cornice di pur conveniente cooperazione economica, ma è richiesta la solidità di una vera comunità di valori condivisi\", ha sottolineato Mattarella."
+        },
+        {
+            "adnResults": {
+                "Companies": {
+                    "Company": {
+                        "@categorization": "automatic",
+                        "$": "Unione Europea"
+                    }
+                },
+                "People": {
+                    "Person": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Jean Monnet"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Sergio Mattarella"
+                        }
+                    ]
+                },
+                "Places": {
+                    "Place": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Unione Sovietica"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Germania"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Ucraina"
+                        }
+                    ]
+                },
+                "Keywords": {
+                    "Keyword": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "Unione Europea"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "europeo"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "paese"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "effetto"
+                        }
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": "la sentenza della Consulta"
+                },
+                "persons": {
+                    "person": [
+                        "Cospito",
+                        "Andrea Delmastro Delle Vedove"
+                    ]
+                },
+                "organisations": {
+                    "organisation": "Pnnr"
+                },
+                "geoPlaces": {
+                    "geoPlace": "Roma"
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Cospito, Delmastro: \"Consulta non incide su 41 bis\"",
+            "summary": "\"La sinistra tenta di intorbidire le acque. La possibilità del riconoscimento delle attenuanti incide sulla pena finale e non certamente sul regime carcerario\"",
+            "paragraphs": "\"Ancora una volta la sinistra sul caso Cospito tenta di intorbidire le acque dopo la sentenza della Consulta. La possibilità del riconoscimento delle attenuanti incide sulla pena finale e non certamente sul regime carcerario del 41 bis. Il regime del 41 bis rimane non solo per volontà politica, ma per conformi sentenze della magistratura italiana che hanno sempre precisato la pericolosità sociale di Cospito”. E’ quanto dichiara in una nota il sottosegretario alla Giustizia, Andrea Delmastro Delle Vedove, di Fratelli d'Italia.La Consulta ha dichiarato illegittima la parte dell'articolo 69 del codice penale che vieta al giudice di considerare eventuali circostanze attenuanti come prevalenti sulla circostanza aggravante della recidiva. In sostanza la Consulta, rispondendo alla questione di legittimità costituzionale sollevata dalla Corte d'assise d'appello di Torino, sottolinea come \"il giudice dovrà valutare, caso per caso, se applicare la pena dell'ergastolo oppure, laddove reputi prevalenti le attenuanti, una diversa pena detentiva\"."
+        },
+        {
+            "adnResults": {
+                "Companies": null,
+                "People": null,
+                "Places": null,
+                "Keywords": {
+                    "Keyword": [
+                        "costituzione",
+                        "articolo",
+                        "decurtazione",
+                        "prescrizione"
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": [
+                        "Un‘ipotesi del genere",
+                        "una misura",
+                        "Costituzione",
+                        "la politica economica",
+                        "considerazione"
+                    ]
+                },
+                "persons": {
+                    "person": [
+                        "Giorgetti",
+                        "Giancarlo Giorgetti"
+                    ]
+                },
+                "organisations": {
+                    "organisation": "Pnnr"
+                },
+                "geoPlaces": {
+                    "geoPlace": "Roma"
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Meno tasse per chi fa figli, è una strada percorribile?",
+            "summary": "L'ipotesi che Il Foglio attribuisce a Giorgetti è solo una suggestione. Il nodo delle risorse e dei principi costituzionali",
+            "paragraphs": "Meno tasse per chi fa figli. La suggestione, che potrebbe diventare una proposta del governo, e in particolare del ministro dell'Economia Giancarlo Giorgetti secondo quanto scrive il Foglio, si lega alla necessità di spingere con la politica economica, e nello specifico con la leva fiscale, la natalità. Un tema centrale, guardando agli andamenti demografici, alla sostenibilità del welfare e del sistema previdenziale, e alle esigenze del tessuto produttivo.Un'ipotesi del genere, solo per essere presa in considerazione, andrebbe analizzata nelle modalità, negli aspetti tecnici, a partire dalla compatibilità costituzionale e dalla sostenibilità economica. Il primo passo, nella sostanza, è la verifica di cosa vorrebbe dire 'niente tasse'.Oggi nel sistema fiscale esistono sgravi e detrazioni legate ai figli e, finora, si è sempre ragionato, di governo in governo, su quali potenziare e quali tagliare, con un occhio agli effetti prodotti e uno alle risorse necessarie. Una rapida ricognizione delle misure esistenti, parziale e sommaria, spazia dalle detrazioni per i figli a carico, alle deduzioni fiscali su colf, badanti, baby sitter, alle detrazioni fiscali per asili nido e bonus asilo nido, fino all'assegno di natalità.Per andare oltre, per ridurre il numero delle tasse da pagare a chi fa figli e non lavorare solo sull'entità di uno sgravio, servirebbero soldi, tanti, e una serie di accorgimenti per non pregiudicare i principi base dell'imposizione fiscale che sono tutelati nella Costituzione.Il primo aspetto, quello delle risorse che sarebbero necessarie, implica una serie di domande. A quale platea si pensa? Niente tasse per chiunque faccia figli a prescindere dal reddito? Un figlio o più figli? E quanti? E di quali tasse si sta parlando? E' evidente che per pensare a una misura sostenibile finanziariamente i paletti dovrebbero essere tanti, per ridimensionare il perimetro entro il quale far ricadere una misura che altrimenti, anche mettendo da parte progressività ed equità, finirebbe per sfasciare i conti pubblici. Il rischio opposto, come per tutte le misure che si pensano universali, è di produrre una misura che produce un beneficio diffuso a pioggia e un risultato solo simbolico.L'altro aspetto, quello dei principi, è altrettanto rilevante. Basta dare un'occhiata allo Statuto dei diritti del contribuente. Contiene (art. 1 \"Principi generali\") disposizioni generali dell'ordinamento tributario in attuazione dei principi costituzionali di uguaglianza di tutti i cittadini nei confronti delle disposizioni di legge (art. 3 Cost.); di riserva di legge in materia di prestazioni patrimoniali (art. 23 Cost.); di capacità contributiva e progressività del sistema tributario (art. 53 Cost.); di buon andamento e imparzialità dell'amministrazione (art. 97 Cost.). Già solo fermandosi qui, i margini per una misura del genere si fanno stretti.Finora, si sta parlando di una indiscrezione giornalistica. Per renderla una strada percorribile, qualsiasi passo concreto nella direzione di un taglio delle tasse efficace a sostegno della natalità andrebbe ponderato con grande attenzione."
+        },
+        {
+            "adnResults": {
+                "Companies": {
+                    "Company": [
+                        "San Raffaele",
+                        "Forza Italia"
+                    ]
+                },
+                "People": {
+                    "Person": [
+                        "Eleonora Berlusconi",
+                        "Marta",
+                        "Silvio Berlusconi"
+                    ]
+                },
+                "Places": null,
+                "Keywords": {
+                    "Keyword": [
+                        "figlia di Silvio Berlusconi",
+                        "ospedale San Raffaele",
+                        "Silvio Berlusconi",
+                        "trasferimento di Berlusconi"
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": "il governo"
+                },
+                "persons": {
+                    "person": [
+                        "Silvio Berlusconi",
+                        "Berlusconi",
+                        "Eleonora Berlusconi",
+                        "Orazio Fascina",
+                        "Marta"
+                    ]
+                },
+                "organisations": {
+                    "organisation": "Pnnr"
+                },
+                "geoPlaces": {
+                    "geoPlace": "Roma"
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Berlusconi, notte tranquilla a due settimane dal ricovero",
+            "summary": "Non sono previsti bollettini per la giornata di oggi",
+            "paragraphs": "Silvio Berlusconi ha trascorso una notte “tranquilla”, la quattordicesima da quando lo scorso 5 aprile è stato ricoverato all’ospedale San Raffaele, per un'infezione polmonare, in un quadro di leucemia mielomonocitica cronica. Oggi - a quanto si apprende da fonti sanitarie - non è previsto alcun bollettino sulle condizioni dell’ex premier. L’ultimo, diramato lunedì, ufficializzava il trasferimento di Berlusconi dalla terapia intensiva, dove è rimasto 12 giorni, a un reparto di degenza ordinaria.Eleonora Berlusconi, quartogenita del presidente di Forza Italia, ha lasciato intanto l'ospedale San Raffaele dopo oltre un’ora di visita. Entrata e uscita dall’ingresso di via Olgettina 60 su un van dai vetri oscurati, la figlia di Silvio Berlusconi non ha rilasciato dichiarazioni ai cronisti. Prima di lei, oggi, è stato visto entrate nell’ospedale solo Orazio Fascina, padre di Marta, la compagna dell’ex premier, che gli è rimasta accanto fin dal momento del ricovero."
+        },
+        {
+            "adnResults": {
+                "Companies": {
+                    "Company": {
+                        "@categorization": "automatic",
+                        "$": "European Journal of Internal Medicine"
+                    }
+                },
+                "People": {
+                    "Person": {
+                        "@categorization": "automatic",
+                        "$": "Fabio Angeli"
+                    }
+                },
+                "Places": {
+                    "Place": {
+                        "@categorization": "automatic",
+                        "$": "Insubria"
+                    }
+                },
+                "Keywords": {
+                    "Keyword": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "epoca"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "studio dell'Insubria"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "università"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "esperto"
+                        }
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": [
+                        "una nuova era",
+                        "ultimi mesi",
+                        "Lo studio dell‘Insubria",
+                        "il gruppo di ricerca",
+                        "Lo studio italiano",
+                        "la fine dell’incubo",
+                        "l’evoluzione del virus",
+                        "numerose mutazioni",
+                        "la fine della pandemia",
+                        "Il lavoro degli esperti",
+                        "le nuove varianti",
+                        "Questa ipotesi",
+                        "un nuovo scenario di speranza",
+                        "Fabio Angeli",
+                        "Paolo Verdecchia"
+                    ]
+                },
+                "persons": {
+                    "person": [
+                        "Fabio Angeli",
+                        "Arturo",
+                        "Martina Zappa",
+                        "Paolo Verdecchia",
+                        "Angeli"
+                    ]
+                },
+                "organisations": {
+                    "organisation": [
+                        "università degli Studi dell’Insubria",
+                        "Insubria"
+                    ]
+                },
+                "geoPlaces": {
+                    "geoPlace": [
+                        "India",
+                        "Perugia"
+                    ]
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Covid, da Wuhan ad Arturo: \"Verso fine pandemia con brodo varianti\"",
+            "summary": "Lo studio italiano pubblicato sulla rivista 'European Journal of Internal Medicine'",
+            "paragraphs": "La 'zuppa' di varianti Covid in cui ci troviamo 'immersi' oggi, a oltre 3 anni dalla comparsa di Sars-CoV-2, ci porterà fuori dalla pandemia? \"È verosimile che ci stiamo dirigendo verso una nuova era in cui il virus pian piano ridurrà le sue caratteristiche di diffusività e letalità\". Punta sulla competizione tra varianti come fattore in grado di decretare la fine dell'incubo Covid l'ipotesi prospettata da due studi italiani condotti da scienziati dell'università degli Studi dell'Insubria, come spiega Fabio Angeli, docente di Malattie dell'apparato cardiovascolare, che ha coordinato il gruppo di ricerca. Il lavoro degli esperti è pubblicato sulla rivista 'European Journal of Internal Medicine' e si concentra sulle varianti di Sars-CoV-2 in un viaggio dal virus Wuhan ad Arturo, l'ultima 'figlia' di Omicron (un ricombinante) che sta guadagnando terreno in particolare in alcune aree come l'India.Le analisi dei ricercatori italiani aprono all'ipotesi che la competizione tra nuove varianti del Sars-CoV-2 possa portare alla riduzione, seppure graduale, di mutazioni minacciose per l'uomo. Uno dei due lavori è uscito oggi e analizza l’evoluzione del virus dal 2020 ai tempi odierni, raccontando proprio come, negli ultimi mesi, le nuove varianti siano entrate in competizione tra loro, aprendo un nuovo scenario di speranza. Lo studio fa seguito a un articolo uscito nelle settimane scorse sempre sull’European Journal of Internal Medicine, nel quale gli studiosi avevano preso in esame gli effetti delle mutazioni sulla variante Kraken. Entrambi i lavori sono firmati da Angeli con Martina Zappa, biotecnologa dell'università dell'Insubria, e Paolo Verdecchia, ricercatore cardiovascolare di Perugia.\"Nonostante il fatto che il meccanismo responsabile dell'infezione sia rimasto sostanzialmente immutato, l'evoluzione del virus osservata negli ultimi tre anni - commenta Angeli - è stata caratterizzata da numerose mutazioni che di fatto sono entrate in 'guerra' tra di loro. Ma negli ultimi mesi, questa competizione non ha portato alla dominanza assoluta di particolari varianti. Attualmente lo scenario pandemico è caratterizzato da un 'brodo' di diverse varianti, che fa ipotizzare (grazie ai risultati di complessi modelli matematici) una graduale riduzione nel tempo della probabilità di nuove mutazioni responsabili di maggiore diffusione ed aggressività del virus\".Lo studio dell'Insubria sta quindi ipotizzando che la competizione tra varianti possa decretare la fine della pandemia? \"È verosimile - ribadisce Angeli - che ci stiamo dirigendo verso una nuova era in cui il virus pian piano ridurrà le sue caratteristiche di diffusività e letalità. Questa ipotesi dovrà essere valutata nel tempo, continuando a monitorare il Sars-CoV-2 e cercando di spiegare gli effetti delle restrizioni e della vaccinazione anti-Covid sulle mutazioni e caratteristiche del virus\"."
+        },
+        {
+            "adnResults": {
+                "Companies": {
+                    "Company": [
+                        "LinkedIn",
+                        "LinkedIn Corporation"
+                    ]
+                },
+                "People": null,
+                "Places": {
+                    "Place": "Italia"
+                },
+                "Keywords": {
+                    "Keyword": [
+                        "azienda",
+                        "Top Companies 2023 Italia",
+                        "classifica",
+                        "carriera"
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": "la propria carriera"
+                },
+                "persons": {
+                    "person": "Michele Pierri"
+                },
+                "organisations": {
+                    "organisation": [
+                        "Leonardo",
+                        "Amazon",
+                        "Nexi Group",
+                        "Cisco",
+                        "Unicredit",
+                        "Procter Gamble",
+                        "Electrolux",
+                        "LinkedIn"
+                    ]
+                },
+                "geoPlaces": {
+                    "geoPlace": "Roma"
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Ecco le 25 aziende italiane dove fare carriera secondo Linkedin",
+            "summary": "La classifica annuale Top Companies 2023 Italia",
+            "paragraphs": "LinkedIn, il più grande network professionale online al mondo, pubblica oggi la sua classifica annuale Top Companies 2023 Italia che, basandosi sui dati della piattaforma, mette in evidenza le 25 aziende italiane che emergono come i migliori luoghi di lavoro per sviluppare la propria carriera. Quest'anno, sono ben diciotto le aziende che entrano per la prima volta nella classifica delle 25 Top Companies italiane stilata da LinkedIn, tra le quali Leonardo, Amazon, Nexi Group e Cisco.Rispetto al 2022, quindi, la lista si aggiorna di molte nuove realtà dove poter sviluppare la propria carriera, ma il settore tech e servizi it si conferma dominante anche quest’anno, seguito dal manifatturiero. Tuttavia, in ambito it, Accenture è l’unica conferma dall’anno precedente, posizionandosi in testa alla classifica. Meno presenti rispetto allo scorso anno sono invece gli operatori del settore bancario-assicurativo, con la sola Unicredit (al sesto posto) all’interno delle Top 25. Esce di scena anche il settore automobilistico e lascia spazio a beni di consumo e manifattura: Procter Gamble (al settimo posto), Essilor Luxottica (quindicesima), Electrolux (diciannovesima).\"La terza edizione italiana di LinkedIn Top Companies mostra nuovamente una preponderanza delle aziende IT e tech, ma si presenta più varia che nel recente passato. Rispetto al 2022, guadagnano posizioni i settori del retail, servizi di consulenza manageriale, manifatturiero e farmaceutico. È un cambiamento che mette in evidenza la rapidità con cui diversi settori stanno evolvendo in un contesto di incertezza economica globale e di grandi mutamenti nel mondo del lavoro, e la loro capacità di offrire ai professionisti opportunità di crescita professionale interne ed esterne nonché la possibilità di accrescere le proprie competenze\", sottolinea Michele Pierri, international editorial special projects lead e managing news editor di LinkedIn Notizie Italia.La classifica annuale LinkedIn Top Companies è una risorsa a disposizione di chi cerca impiego o desidera imprimere alla propria carriera un cambio di rotta, anche e soprattutto in un momento come quello attuale, in cui il mondo del lavoro è ancora in continua evoluzione. Chi desidera intraprendere nuovi percorsi lavorativi, più in linea con le proprie ambizioni e necessità, può trovare in LinkedIn Top Companies un utile strumento per individuare posizioni aperte, connettersi con dipendenti delle aziende in classifica o ancora scoprire quali di esse offrono una cultura aziendale in linea con le proprie aspettative o opportunità di sviluppare skill che potrebbero costituire un importante valore aggiunto per la propria crescita professionale.LinkedIn Top Companies 2023 è stata realizzata esaminando le azioni e i percorsi di carriera di milioni di professionisti sulla piattaforma tra gennaio e dicembre 2022, utilizzando una metodologia attentamente ponderata che include non solo la stabilità, ma anche la diversità di genere di ciascuna azienda, nonché la crescita delle competenze e la capacità di avanzare internamente ed esternamente all’impresa. Più specificamente, per la realizzazione della classifica Top Companies 2023, pubblicata dalla redazione di LinkedIn Notizie, i data scientist di LinkedIn hanno condotto un'analisi relativa ad alcuni temi chiave, come ad esempio cosa significhi riuscire a costruirsi una buona carriera professionale e li hanno combinati con i dati unici dalla piattaforma LinkedIn."
+        },
+        {
+            "adnResults":  {
+                "Companies": {
+                    "Company": {
+                        "@categorization": "automatic",
+                        "$": "Irbim-Cnr"
+                    }
+                },
+                "People": null,
+                "Places": {
+                    "Place": {
+                        "@categorization": "automatic",
+                        "$": "Italia"
+                    }
+                },
+                "Keywords": {
+                    "Keyword": [
+                        {
+                            "@categorization": "automatic",
+                            "$": "progetto Life Delfi"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "delfino"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "cetaceo"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "pescatore"
+                        }
+                    ]
+                }
+            },
+            "awsResults": {
+                "keywords": {
+                    "keyword": [
+                        "il 14 aprile",
+                        "la tendenza degli ultimi anni",
+                        "Alessandro Lucchetti",
+                        "le coste dell’Italia",
+                        "imbarcazioni"
+                    ]
+                },
+                "persons": {
+                    "person": "Alessandro Lucchetti"
+                },
+                "organisations": {
+                    "organisation": [
+                        "Unione Europea",
+                        "Irbim-Cnr",
+                        "Cert",
+                        "C.Re.Di.Ma.",
+                        "Life Delfi"
+                    ]
+                },
+                "geoPlaces": {
+                    "geoPlace": "Italia"
+                },
+                "subjects": {
+                    "subject": null
+                },
+                "genres": {
+                    "genre": null
+                },
+                "events": {
+                    "event": null
+                },
+                "objects": {
+                    "object": null
+                },
+                "pointsOfInterest": {
+                    "pointOfInterest": null
+                }
+            },
+            "headline": "Cetacei spiaggiati in Italia, 192 in 15 mesi",
+            "summary": "Tra il 2022 e i primi mesi del 2023; il 14 aprile la Giornata Mondiale dei delfini",
+            "paragraphs": "Cetacei spiaggiati sulle coste italiane: sono 162 gli esemplari rinvenuti spiaggiati lungo le coste dell’Italia nel 2022, mentre il conteggio per i primi tre mesi del 2023 ammonta già a 30 unità. I dati emergono dalla 'Banca Dati Spiaggiamenti', gestita dal Cibra dell’Università degli studi di Pavia e dal Museo di Storia Naturale di Milano, e confermano la tendenza degli ultimi anni. A mettere in evidenza questi dati è il team del progetto Life Delfi, cofinanziato dal Programma Life dell’Unione Europea e coordinato da Irbim-Cnr, che propone l’adozione di un 'Codice di condotta' per i pescatori in occasione della Giornata Mondiale dei delfini che si celebra il 14 aprile.Una significativa quantità dei cetacei spiaggiati viene classificata dagli esperti tra i 'non determinati' (34 nel 2022) ovvero i casi in cui non è possibile risalire alla specie per via dello stato di decomposizione. Ma dai dati emerge chiaramente che i cetacei maggiormente coinvolti negli spiaggiamenti sono i delfini: nel 2022 in Italia sono stati rinvenuti 71 tursiopi (Tursiops truncatus) e 48 stenelle (Stenella coeruleoalba). Le morti di questi splendidi mammiferi marini sono da attribuire a cause naturali ma anche a cause di origine antropica. In particolare, le interazioni dei delfini con le attività di pesca professionale: i delfini riportano gravi lesioni derivanti dalle interazioni con le attrezzature da pesca, oppure restano impigliati o avvolti dalle reti dopo essersi avvicinati alle imbarcazioni alla ricerca di cibo.Grazie al Cert dell’Università di Padova, partner di progetto, è stato elaborato per la prima volta un framework diagnostico adottato a livello nazionale dal C.Re.Di.Ma., che coordina la rete spiaggiamenti italiana, per essere applicato nel corso delle necroscopie sui delfini. L’obiettivo del progetto Life Delfi è proprio quello di limitare le interazioni tra delfini e pesca professionale, un fenomeno che implica gravi conseguenze per i cetacei ma anche per i pescatori che subiscono, loro malgrado, consistenti perdite economiche per via dei danni che i delfini provocano agli attrezzi da pesca durante le interazioni.“È per questo che il progetto Life Delfi da più di tre anni è impegnato nel coinvolgimento e nella sensibilizzazione dei pescatori a cui sono stati forniti dissuasori acustici e visivi di ultima generazione insieme ad attrezzature da pesca a basso impatto ambientale, mentre per tutti gli operatori del mare sono stati organizzati corsi di formazione per la realizzazione di attività economiche alternative come il dolphin watching”, spiega Alessandro Lucchetti, ricercatore di Irbim-Cnr e coordinatore del progetto Life Delfi. Il team di Life Delfi ha già testato con i pescatori nuove tecniche di pesca grazie alla diffusione di attrezzi a basso impatto ambientale come le nasse, da sostituire alle reti da posta tra le più rischiose per i delfini."
+        }
+    ]
+}
