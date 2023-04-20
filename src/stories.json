@@ -438,56 +438,52 @@
         {
             "adnResults": {
                 "Companies": {
-                    "Company": {
-                        "@categorization": "automatic",
-                        "$": "Unione Europea"
-                    }
-                },
-                "People": {
-                    "Person": [
+                    "Company": [
+                        null,
                         {
                             "@categorization": "automatic",
-                            "$": "Jean Monnet"
+                            "$": "Cospito"
                         },
                         {
                             "@categorization": "automatic",
-                            "$": "Sergio Mattarella"
+                            "$": "Corte d'Assise d'Appello"
+                        },
+                        {
+                            "@categorization": "automatic",
+                            "$": "Corte Costituzionale"
+                        }
+                    ]
+                },
+                "People": {
+                    "Person": [
+                        null,
+                        {
+                            "@categorization": "automatic",
+                            "$": "Andrea Delmastro Delle Vedove"
                         }
                     ]
                 },
                 "Places": {
-                    "Place": [
-                        {
-                            "@categorization": "automatic",
-                            "$": "Unione Sovietica"
-                        },
-                        {
-                            "@categorization": "automatic",
-                            "$": "Germania"
-                        },
-                        {
-                            "@categorization": "automatic",
-                            "$": "Ucraina"
-                        }
-                    ]
+                    "Place": null
                 },
                 "Keywords": {
                     "Keyword": [
+                        null,
                         {
                             "@categorization": "automatic",
-                            "$": "Unione Europea"
+                            "$": "Corte Costituzionale"
                         },
                         {
                             "@categorization": "automatic",
-                            "$": "europeo"
+                            "$": "attenuante"
                         },
                         {
                             "@categorization": "automatic",
-                            "$": "paese"
+                            "$": "pericolosità sociale di Cospito"
                         },
                         {
                             "@categorization": "automatic",
-                            "$": "effetto"
+                            "$": "riconoscimento delle attenuanti"
                         }
                     ]
                 }
@@ -814,7 +810,7 @@
             "paragraphs": "LinkedIn, il più grande network professionale online al mondo, pubblica oggi la sua classifica annuale Top Companies 2023 Italia che, basandosi sui dati della piattaforma, mette in evidenza le 25 aziende italiane che emergono come i migliori luoghi di lavoro per sviluppare la propria carriera. Quest'anno, sono ben diciotto le aziende che entrano per la prima volta nella classifica delle 25 Top Companies italiane stilata da LinkedIn, tra le quali Leonardo, Amazon, Nexi Group e Cisco.Rispetto al 2022, quindi, la lista si aggiorna di molte nuove realtà dove poter sviluppare la propria carriera, ma il settore tech e servizi it si conferma dominante anche quest’anno, seguito dal manifatturiero. Tuttavia, in ambito it, Accenture è l’unica conferma dall’anno precedente, posizionandosi in testa alla classifica. Meno presenti rispetto allo scorso anno sono invece gli operatori del settore bancario-assicurativo, con la sola Unicredit (al sesto posto) all’interno delle Top 25. Esce di scena anche il settore automobilistico e lascia spazio a beni di consumo e manifattura: Procter Gamble (al settimo posto), Essilor Luxottica (quindicesima), Electrolux (diciannovesima).\"La terza edizione italiana di LinkedIn Top Companies mostra nuovamente una preponderanza delle aziende IT e tech, ma si presenta più varia che nel recente passato. Rispetto al 2022, guadagnano posizioni i settori del retail, servizi di consulenza manageriale, manifatturiero e farmaceutico. È un cambiamento che mette in evidenza la rapidità con cui diversi settori stanno evolvendo in un contesto di incertezza economica globale e di grandi mutamenti nel mondo del lavoro, e la loro capacità di offrire ai professionisti opportunità di crescita professionale interne ed esterne nonché la possibilità di accrescere le proprie competenze\", sottolinea Michele Pierri, international editorial special projects lead e managing news editor di LinkedIn Notizie Italia.La classifica annuale LinkedIn Top Companies è una risorsa a disposizione di chi cerca impiego o desidera imprimere alla propria carriera un cambio di rotta, anche e soprattutto in un momento come quello attuale, in cui il mondo del lavoro è ancora in continua evoluzione. Chi desidera intraprendere nuovi percorsi lavorativi, più in linea con le proprie ambizioni e necessità, può trovare in LinkedIn Top Companies un utile strumento per individuare posizioni aperte, connettersi con dipendenti delle aziende in classifica o ancora scoprire quali di esse offrono una cultura aziendale in linea con le proprie aspettative o opportunità di sviluppare skill che potrebbero costituire un importante valore aggiunto per la propria crescita professionale.LinkedIn Top Companies 2023 è stata realizzata esaminando le azioni e i percorsi di carriera di milioni di professionisti sulla piattaforma tra gennaio e dicembre 2022, utilizzando una metodologia attentamente ponderata che include non solo la stabilità, ma anche la diversità di genere di ciascuna azienda, nonché la crescita delle competenze e la capacità di avanzare internamente ed esternamente all’impresa. Più specificamente, per la realizzazione della classifica Top Companies 2023, pubblicata dalla redazione di LinkedIn Notizie, i data scientist di LinkedIn hanno condotto un'analisi relativa ad alcuni temi chiave, come ad esempio cosa significhi riuscire a costruirsi una buona carriera professionale e li hanno combinati con i dati unici dalla piattaforma LinkedIn."
         },
         {
-            "adnResults":  {
+            "adnResults": {
                 "Companies": {
                     "Company": {
                         "@categorization": "automatic",
